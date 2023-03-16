@@ -427,3 +427,24 @@ span.free {
 
   color: #000000;
 }
+
+.submitBtn {
+  position: absolute;
+  width: 500px;
+  height: 62px;
+  left: 180px;
+  margin-top: 50px;
+  background: #2b2d33;
+  border-radius: 15px;
+}
+
+.submitBtnText {
+  margin-top: 15px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  text-align: center;
+
+  color: #ffffff;
+}
